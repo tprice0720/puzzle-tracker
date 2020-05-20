@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>owner</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 19:25:24</sys_created_on>
+        <sys_data_policy display_value="Sets the Owner field to mandatory">e02ba017913010107f44e51035f2abc9</sys_data_policy>
+        <sys_id>a42ba017913010107f44e51035f2abcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>owner</sys_name>
+        <sys_package display_value="Puzzle Tracker" source="x_1234_puzzle_trac">543ae093913010107f44e51035f2ab69</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">543ae093913010107f44e51035f2ab69</sys_scope>
+        <sys_update_name>sys_data_policy_rule_a42ba017913010107f44e51035f2abcc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 19:25:24</sys_updated_on>
+        <table>x_1234_puzzle_trac_puzzle</table>
+    </sys_data_policy_rule>
+</record_update>
